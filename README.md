@@ -4,8 +4,8 @@
 ​
 
 ## 📋 Project Overview
-   Analyzes IPL 2025 team standings like Royal Challengers Bengaluru (RCB) leading with strong wins, alongside Punjab Kings, Gujarat Titans, and others from the provided screenshot. 
-   Focuses on key metrics: matches played, wins, losses, and points.
+   - Analyzes IPL 2025 team standings like Royal Challengers Bengaluru (RCB) leading with strong wins, alongside Punjab Kings, Gujarat Titans, and others from the provided screenshot. 
+   - Focuses on key metrics: matches played, wins, losses, and points.
   
 ## 🛠️ Tech Stack
 - SQL Server: For data querying and analysis.
@@ -15,7 +15,7 @@
 - Python/Excel: Initial data loading and cleaning .
 ​
 ## 📥 Dataset
-   IPL 2025 points table data from official sources and screenshots, including teams like RCB (14 points from 10 matches), Punjab Kings, Sunrisers Hyderabad, and more. Covers matches played (P), wins (W), losses (L), and totals. Publicly available IPL data (2008-2025) used for completeness.
+   - IPL 2025 points table data from official sources and screenshots, including teams like RCB (14 points from 10 matches), Punjab Kings, Sunrisers Hyderabad, and more. Covers matches played (P), wins (W), losses (L), and totals. Publicly available IPL data (2008-2025) used for completeness.
 ​
 
 ## 🚀 Getting Started
@@ -41,7 +41,11 @@ Power BI Dashboard 📈: Model data, create visuals like bar charts for points, 
 
   <img width="1252" height="687" alt="IPL-2025" src="https://github.com/user-attachments/assets/2ae2e997-2412-4ad6-9ffa-ecc657e05939" />
 
+  
+
   <img width="986" height="535" alt="IPL-2024" src="https://github.com/user-attachments/assets/a4c4681c-7ee0-4dcb-b653-453535fa6ad0" />
+
+
 
   <img width="989" height="544" alt="IPL-2008" src="https://github.com/user-attachments/assets/bbdc2f12-4036-497a-b4ae-d6185570cfd2" />
 
